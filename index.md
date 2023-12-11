@@ -1,11 +1,12 @@
 <h1 style="text-align: center;"> Dr Joel Miller</h1>
-<p style="text-align: center; font-weight: 600"><img src=https://api.iconify.design/tabler/phone.svg> 07787808981 | <img src=https://api.iconify.design/tabler/mail.svg> joelsamiller@gmail.com | <img src=https://api.iconify.design/tabler/map-pin.svg>London</p>
+<p style="text-align: center; font-weight: 600"><img src=https://api.iconify.design/tabler/phone.svg /> 07787808981 | <img src=https://api.iconify.design/tabler/mail.svg /> joelsamiller@gmail.com | <img src=https://api.iconify.design/tabler/map-pin.svg />London</p>
 
 ___
 I have over 6 years of experience applying data science techniques across academia and public health. I have a strong interest in sciences and technology, with a propensity for problem-solving. As an international athlete, I thrive in competitive environments and am no stranger to high-pressure scenarios.
 
 ___
 ## Skills
+
 **Programming Languages:** ![Alt text](https://api.iconify.design/vscode-icons/file-type-python.svg)Python | ![Alt text](https://api.iconify.design/vscode-icons/file-type-r.svg)R | ![Alt text](https://api.iconify.design/vscode-icons/file-type-sql.svg)SQL 
 
 **Frameworks:** ![Alt text](https://api.iconify.design/vscode-icons/file-type-git.svg)Git | ![Alt text](https://api.iconify.design/vscode-icons/file-type-aws.svg)AWS
