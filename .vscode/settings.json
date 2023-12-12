@@ -1,6 +1,6 @@
 {
     "markdown.styles": [
-        "style.css"
+        "assets/css/style.scss"
     ],
     "oneDarkPro.markdownStyle": false
 }

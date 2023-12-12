@@ -1,21 +1,19 @@
 <h1 style="text-align: center;"> Dr Joel Miller</h1>
 <p style="text-align: center; font-weight: 600"><img src="https://api.iconify.design/tabler/phone.svg" /> 07787808981 | <img src="https://api.iconify.design/tabler/mail.svg" /> joelsamiller@gmail.com | <img src="https://api.iconify.design/tabler/map-pin.svg" />London</p>
 
-___
 I have over 6 years of experience applying data science techniques across academia and public health. I have a strong interest in sciences and technology, with a propensity for problem-solving. As an international athlete, I thrive in competitive environments and am no stranger to high-pressure scenarios.
 
-___
 ## Skills
 
-**Programming Languages:** ![Alt text](https://api.iconify.design/vscode-icons/file-type-python.svg)Python | ![Alt text](https://api.iconify.design/vscode-icons/file-type-r.svg)R | ![Alt text](https://api.iconify.design/vscode-icons/file-type-sql.svg)SQL 
+**Programming Languages:** | ![Alt text](https://api.iconify.design/vscode-icons/file-type-python.svg)Python | ![Alt text](https://api.iconify.design/vscode-icons/file-type-r.svg)R | ![Alt text](https://api.iconify.design/vscode-icons/file-type-sql.svg)SQL 
 
-**Frameworks:** ![Alt text](https://api.iconify.design/vscode-icons/file-type-git.svg)Git | ![Alt text](https://api.iconify.design/vscode-icons/file-type-aws.svg)AWS
+**Frameworks:** | ![Alt text](https://api.iconify.design/vscode-icons/file-type-git.svg)Git | ![Alt text](https://api.iconify.design/vscode-icons/file-type-aws.svg)AWS
 
-**General:** Communication | Problem Solving | Leadership Teamwork
+**General:** | Communication | Problem Solving | Leadership | Teamwork
 
 ## Employment History  
 ### Principle Data Scientist at UK Health Security Agency, London
-#### July 2023-Present 
+#### July 2023 - Present 
 **Health Analytics and Automation Team**
 - Started a project using geospatial data to map urban heat islands in London and how they affect health outcomes. Making use of R geospatial packages.
 - Leading 2 report automation work-streams, building solutions using R-markdown bespoke to the stakeholder's requirements. 
@@ -45,6 +43,7 @@ First Class
 ## Extra-curricular Activities
 ### Athlete at Great Britain Ultimate
 - 2019 European Gold Medalist
+
 ### Volunteer Coach at University of Nottingham Sport
 - Delivery of sessions at a variety of levels to both single and mixed-gender teams within the club.
 - Providing feedback to players and making team selections.
