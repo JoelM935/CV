@@ -13,21 +13,29 @@ I have over 6 years of experience applying data science techniques across academ
 
 ## Employment History  
 ### Principle Data Scientist at UK Health Security Agency, London
-#### July 2023 - Present 
-**Health Analytics and Automation Team**
-- Started a project using geospatial data to map urban heat islands in London and how they affect health outcomes. Making use of R geospatial packages.
-- Leading 2 report automation work-streams, building solutions using R-markdown bespoke to the stakeholder's requirements. 
-- Leading a work-stream to standardise COVID-19 variant incident response across the organisation. Bringing together multiple teams to produce a single output which can be rapidly deployed to support incident response.
-- Lead developer on a Python package to support users in the creation of automated slide decks.
+#### July 2023 - Present
+**Health Analytics and Automation Team**\
+Day-to-day I help provide crucial information and insight to support the management of high-profile health incidents such as MPOX,
+Hepatitis, Influenza, Strep A and COVID-19 as well as other threats to health security.
+
+Responsibilities:
+- Automation lead: Working with customers across the organisation to identify outputs which can be automated, developing automated products which fulfil the customers requirements. Tailoring these products to the level of technical proficiency within the team which will be responsible for ongoing maintenance and building skills within those teams by delivering training sessions.
+- Lead developer on a python package which provides a user friendly framework for the creation of automated slide decks, utilising AWS S3 storage.
+- Line management and mentoring of more junior data scientists.
+
+Projects:
+- Using geospatial data to map urban heat islands in London and their effect on health outcomes.
+- Automation of GOV.UK reports using R markdown, saving up to 10 days of analyst time per production cycle and improving quality.
+- Developing a new data pipeline and a dashboard for internal reporting using Python, Dash and MS Lists. Currently this is done manually using excel and powerpoint.
 
 ### Data Scientist at UK Health Security Agency, London
 #### April 2022 - July 2023
 **Health Analytics and Automation Team**
-- Major contributor to the COVID-19 automated slide pack. This relies on a large Python codebase and AWS. Facilitated a reduction from 60k to 10k lines of code, providing significant speed increase and an 85% reduction in operating costs.
-- Supported incident responses, delivering data analysis and visualisations on high-priority public health situations at pace.
-- Worked at pace on a greenfield project using Python to extract data from disease notification forms into a tabular form.
-- Lead a team of 5 data scientists on a project to automate the production of TB reports using R-markdown, reducing the production time from 2 days to ~30 seconds.
-- Developed code to fine-tune a pre-trained LLM, producing a binary classification model with >90% accuracy. This model was then applied to free text data to identify whether individuals who were exposed to avian influenza were using PPE during exposure. 
+- Improved a high-profile COVID-19 product built using a large object oriented Python codebase and AWS. Facilitated a reduction from 60k to 10k lines of code, providing significant speed increase and an 85% reduction in operating costs. As well as improving the visualisations to make them clearer and provide a consistent look and feel.
+- Supported incident responses, delivering data analysis and visualisations on a variety of high-priority public health situations at pace.
+- Worked at pace on a greenfield project using Python to extract data from PDF forms into a tabular form. Providing a solution where the existing manual process was unable to process forms fast enough during an outbreak.
+- Lead a team of 5 data scientists on a project to automate the production of a regular GOV.UK report using R-markdown, reducing the production time from 2 days to ~30 seconds.
+- Developed code to fine-tune a pre-trained LLM, producing a binary classification model with >90% accuracy. This model was then applied to free text data to improve reporting on Avian Influenza.
 
 ## Education
 ### PhD Physics, University of Nottingham
