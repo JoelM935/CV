@@ -48,6 +48,7 @@ First Class
 ## Extra-curricular Activities
 ### Athlete at Great Britain Ultimate
 - 2019 European Gold Medalist
+
 ### Athlete at University of Nottingham Sport Ultimate
 - Won 5 BUCS gold medals and 2 regional titles.
 - Captained mixed indoor 1s through an undefeated season to become national champions.
